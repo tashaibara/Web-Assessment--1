@@ -36,6 +36,13 @@ header, footer, main {
       footer {
         background-color: var(--c-background-highlights);
       }
+
+      .link {
+        color: var(--c-magenta);
+      }
+      .link:hover{
+        color: var(--c-orange);
+      }
     </style>
   </head>
   
@@ -71,7 +78,7 @@ header, footer, main {
         <p>Vivamus fermentum semper porta. Nunc diam velit, adipscing ut tristique vitae sagittis vel odio. Maecenas convallis ullamcorper ultricied. Curabitur ornare, ligula semper consectetur sagittis, nisi diam iaculis velit, is fringille sem nunc vet mi.</p>
       </article>
 
-      <p color="var(--c-magenta)">Check out this <a href="https://www.google.com">link to Google</a>!</p>
+      <p>Check out this <a class="link" href="https://www.google.com">link to Google</a>!</p>
 
     </article>
       <!-- the aside content can also be nested within the main content -->
