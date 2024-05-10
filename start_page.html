@@ -23,6 +23,10 @@
         --c-cyan: rgb(42,161,152);
         --c-green: rgb(133,153,0);
       }
+
+      body {
+        max-width: 1080px;
+      }
       
 header, footer, main {
     color:var(--base-font-color)
@@ -54,10 +58,17 @@ header, footer, main {
       }
 
       ul.no-bullets {
-        list-style-type: none; /* Remove bullets */
-        padding: 0; /* Remove padding */
-        margin: 0; /* Remove margins */
+        list-style-type: none;
+        padding: 20px; 
+        margin: 0px; 
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 200px;
+        
       }
+
     </style>
   </head>
   
@@ -67,12 +78,14 @@ header, footer, main {
       <h1>Header</h1>
     </header>
     <nav>
+      <div>
       <ul class="no-bullets">
         <li><a href="#">Home</a></li>
         <li><a href="#">Our team</a></li>
         <li><a href="#">Projects</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
+      </div>
       
       <!-- A Search form is another common non-linear way to navigate through a website. -->
       <form>
