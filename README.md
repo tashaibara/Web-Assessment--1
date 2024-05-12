@@ -7,7 +7,7 @@
 1. Set background colour to c-background-color
 2. Header/footer background colour set to c-background-highlights
 3. Text colour in main, header, footer set to base-font-color
-4. [Link to commit](https://github.com/tashaibara/Web-Assessment--1/commit/f65721e0df6d3f97f26cc938a3b70ec81ad206f9))
+4. [Link to commit](https://github.com/tashaibara/Web-Assessment--1/commit/08e37019368f998b4899c5b1bacc3beb6ce84d38)
 </details>
 
 <details>
