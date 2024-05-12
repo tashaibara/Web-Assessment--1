@@ -87,25 +87,7 @@
 5. Added top padding of 50px to article headings
 6. Moved aside into <main>
 7. [Link to commit](https://github.com/tashaibara/Web-Assessment--1/commit/f65721e0df6d3f97f26cc938a3b70ec81ad206f9)
+
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Click here for a cute hedgehog](https://www.youtube.com/shorts/u_r7WwfZlFQ)
-
 
 
